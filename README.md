@@ -1,1 +1,2 @@
-# 691-Project
+# shopme
+Referential Project for Shopme eCommerce Application
